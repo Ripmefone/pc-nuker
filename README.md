@@ -12,7 +12,4 @@ v1.0.1
 - Added warning
 - making it so it wont work on vm (but triage works, im starting to fix this issue)
 
--Added Pc Nuker installer
-download pc nuker installer here:https://github.com/Ripmefone/Pcnukerinstaller/releases/tag/installer
-
 thank you yall!
