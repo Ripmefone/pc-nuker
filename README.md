@@ -8,7 +8,7 @@ here is a update list
 v1
 - started making pc nuker
 
-v2
+v1.0.1
 - Added warning
 - making it so it wont work on vm (but triage works, im starting to fix this issue)
 
