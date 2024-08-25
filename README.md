@@ -13,3 +13,6 @@ v1.0.1
 - making it so it wont work on vm (but triage works, im starting to fix this issue)
 
 thank you yall!
+
+RELEASE
+https://github.com/Ripmefone/pc-nuker/releases
